@@ -1,23 +1,23 @@
 # KHAN
 Facebook old id clone
 
-apt update
+🐸apt update
 
-apt upgrade
+🐸apt upgrade
 
- pkg install python
+🐸pkg install python
 
-pkg install python2
+🐸pkg install python2
 
- pkg install git 
+🐸pkg install git 
 
-pip2 install requests
+🐸pip2 install requests
 
- pip2 install mechanize 
+🐸pip2 install mechanize 
 
 
-git clone https://github.com/TAHIDUL-123/KHAN
+🐸git clone https://github.com/TAHIDUL-123/KHAN
 
-cd KHAN
+🐸cd KHAN
 
-python KHAN.py
+🐸python KHAN.py
